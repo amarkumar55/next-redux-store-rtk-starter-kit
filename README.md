@@ -23,5 +23,13 @@ This template helps you kickstart projects with the latest Next.js **App Router*
 You can use this as a **template** for new Next.js apps:
 
 ```bash
-npx create-next-app@latest my-app --example "https://github.com/amarkumar55/next-redux-store-rtk-starter-kit"
+git clone "https://github.com/amarkumar55/next-redux-store-rtk-starter-kit"
+cd next-redux-store-rtk-starter-kit
+
+run
+   npm install
+
+run project
+
+   npm run dev
 ```
